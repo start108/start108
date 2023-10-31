@@ -3,6 +3,13 @@
 ## ⚡ Technologies
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-spring-black?style=flat-square&logo=spring)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Oracle](https://img.shields.io/badge/-Oracle-336791?style=flat-square&logo=oracle)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=start108&exclude_repo=start108.github.io,start108.github.io-legacyblog_source,start108,&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
