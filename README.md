@@ -9,7 +9,7 @@
 ![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0769AD?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/postgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)
 
@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=start108&exclude_repo=start108.github.io,start108.github.io-legacyblog_source,start108,&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 <h2> My tech stack 📚 </h2>
-
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0769AD?style=flat-square&logo=postgresql)
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
