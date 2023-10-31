@@ -9,9 +9,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0769AD?style=flat-square&logo=postgresql)
-![Apache Tomcat](https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=start108&exclude_repo=start108.github.io,start108.github.io-legacyblog_source,start108,&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
