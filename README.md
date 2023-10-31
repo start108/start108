@@ -1,7 +1,8 @@
 ### Hi!
 
-## 📚 Stack
-![Spring](https://img.shields.io/badge/-Spring-F05032?style=for-the-badge&logo=spring&logoColor=ffffff)
+## ⚡ Technologies
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/-spring-F05032?style=flat-square&logo=spring)
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=start108&exclude_repo=start108.github.io,start108.github.io-legacyblog_source,start108,&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
