@@ -1,9 +1,5 @@
 ### Hi!
 
-https://img.shields.io/badge/springboot-black?logo=springboot
-
-
-
 ## ⚡ Technologies
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
