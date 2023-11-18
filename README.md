@@ -10,6 +10,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)
 
