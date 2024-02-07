@@ -26,9 +26,14 @@
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 </div>
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=ggomi&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=start108&exclude_repo=start108.github.io,start108.github.io-legacyblog_source,start108,&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=start108&layout=compact&theme=solarized-light&exclude_repo=ggomi.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=start108&exclude_repo=start108.github.io,start108.github.io-legacyblog_source,start108,&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=start108&layout=compact&theme=solarized-light&exclude_repo=ggomi.github.io)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 <h2> My tech stack 📚 </h2>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0769AD?style=flat-square&logo=postgresql)
